@@ -1,5 +1,9 @@
-## Hi there 👋
+## Sanjita Kumar
 
+### About Me
+I am an undergraduate student at IIIT pursuing a BTech in Computer science with an integrated MS in Computational Natural Sciences at IIITH. 
+
+I am currently learning network sciences, probabilistic computing and machine learning. I enjoy building things to understand them.
 <!--
 **sanjitakr/sanjitakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
