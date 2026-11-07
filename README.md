@@ -1,7 +1,7 @@
 ## Sanjita Kumar
 
 ### About Me
-I am an undergraduate student pursuing a BTech in Computer science with an integrated MS in Computational Natural Sciences at IIITH. I enjoy building things to understand them.
+I am an undergraduate student pursuing a BTech in Computer Science with an integrated MS in Computational Natural Sciences at IIITH. I enjoy building things to understand them.
 
 
 <!--
