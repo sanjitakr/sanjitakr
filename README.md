@@ -1,9 +1,9 @@
 ## Sanjita Kumar
 
 ### About Me
-I am an undergraduate student pursuing a BTech in Computer science with an integrated MS in Computational Natural Sciences at IIITH. 
+I am an undergraduate student pursuing a BTech in Computer science with an integrated MS in Computational Natural Sciences at IIITH. I enjoy building things to understand them.
 
-I am currently learning network sciences, probabilistic computing and machine learning. I enjoy building things to understand them.
+
 <!--
 **sanjitakr/sanjitakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
